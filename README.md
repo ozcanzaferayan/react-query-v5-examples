@@ -1,8 +1,16 @@
-# React + Vite
+# React Router Examples
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can use src folder to see the examples.
 
-Currently, two official plugins are available:
+0. App.jsx : main example with json-server and all http methods
+1. 1.get.jsx : get example
+2. 2.post.jsx : post example
+3. 3.put.jsx : put example
+4. 4.delete.jsx : delete example
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation and Usage
+
+```bash
+pnpm install
+pnpm run dev
+```
